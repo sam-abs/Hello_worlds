@@ -1,4 +1,3 @@
-use strict;
-use warnings;
+#!/usr/bin/perl
 
 print("Hello World\n");
